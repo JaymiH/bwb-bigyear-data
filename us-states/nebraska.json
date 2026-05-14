@@ -1,0 +1,4739 @@
+{
+  "state": "Nebraska",
+  "state_code": "NE",
+  "generated_date": "2026-05-12",
+  "total_species": 591,
+  "data_sources": [
+    "GBIF (CC0 + CC BY datasets only)"
+  ],
+  "species": [
+    {
+      "common_name": "Bald Eagle",
+      "scientific_name": "Haliaeetus leucocephalus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Broad-winged Hawk",
+      "scientific_name": "Buteo platypterus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Cooper's Hawk",
+      "scientific_name": "Accipiter cooperii",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Ferruginous Hawk",
+      "scientific_name": "Buteo regalis",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Golden Eagle",
+      "scientific_name": "Aquila chrysaetos",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Harris's Hawk",
+      "scientific_name": "Parabuteo unicinctus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Hen Harrier",
+      "scientific_name": "Circus cyaneus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Mississippi Kite",
+      "scientific_name": "Ictinia mississippiensis",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Northern Goshawk",
+      "scientific_name": "Accipiter gentilis",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Red-shouldered/Broad-winged Hawk",
+      "scientific_name": "Buteo lineatus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Red-tailed Hawk",
+      "scientific_name": "Buteo jamaicensis",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Rough-legged Hawk",
+      "scientific_name": "Buteo lagopus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Sharp-shinned Hawk",
+      "scientific_name": "Accipiter striatus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Swainson's Hawk",
+      "scientific_name": "Buteo swainsoni",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Swallow-tailed Kite",
+      "scientific_name": "Elanoides forficatus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "White-tailed Kite",
+      "scientific_name": "Elanus leucurus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Zone-tailed Hawk",
+      "scientific_name": "Buteo albonotatus",
+      "family": "Accipitridae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Black Vulture",
+      "scientific_name": "Coragyps atratus",
+      "family": "Cathartidae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Turkey Vulture",
+      "scientific_name": "Cathartes aura",
+      "family": "Cathartidae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Osprey",
+      "scientific_name": "Pandion haliaetus",
+      "family": "Pandionidae",
+      "order": "Accipitriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "American Black Duck",
+      "scientific_name": "Anas rubripes",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "American Wigeon",
+      "scientific_name": "Mareca americana",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Bar-headed Goose",
+      "scientific_name": "Anser indicus",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Barrow's Goldeneye",
+      "scientific_name": "Bucephala islandica",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black Scoter",
+      "scientific_name": "Melanitta americana",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black Swan",
+      "scientific_name": "Cygnus atratus",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Black-bellied Whistling-Duck",
+      "scientific_name": "Dendrocygna autumnalis",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-necked Swan",
+      "scientific_name": "Cygnus melancoryphus",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Blue-winged Teal",
+      "scientific_name": "Spatula discors",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Brant",
+      "scientific_name": "Branta bernicla",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Bufflehead",
+      "scientific_name": "Bucephala albeola",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Cackling Goose",
+      "scientific_name": "Branta hutchinsii",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Canada Goose (canadensis Group)",
+      "scientific_name": "Branta canadensis",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Canvasback",
+      "scientific_name": "Aythya valisineria",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Cinnamon Teal",
+      "scientific_name": "Spatula cyanoptera",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Eider",
+      "scientific_name": "Somateria mollissima",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Common Goldeneye",
+      "scientific_name": "Bucephala clangula",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Common Merganser",
+      "scientific_name": "Mergus merganser",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Common Scoter",
+      "scientific_name": "Melanitta nigra",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Egyptian Goose",
+      "scientific_name": "Alopochen aegyptiaca",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Emperor Goose",
+      "scientific_name": "Anser canagicus",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Eurasian Wigeon",
+      "scientific_name": "Mareca penelope",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Fulvous Whistling-Duck",
+      "scientific_name": "Dendrocygna bicolor",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Gadwall",
+      "scientific_name": "Mareca strepera",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Gadwall x Mallard (hybrid)",
+      "scientific_name": "Mareca strepera x Anas platyrhynchos",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Garganey",
+      "scientific_name": "Spatula querquedula",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Graylag Goose",
+      "scientific_name": "Anser anser",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Greater Scaup",
+      "scientific_name": "Aythya marila",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Greater White-fronted Goose",
+      "scientific_name": "Anser albifrons",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Green-winged Teal",
+      "scientific_name": "Anas crecca",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Harlequin Duck",
+      "scientific_name": "Histrionicus histrionicus",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Hawaiian Goose",
+      "scientific_name": "Branta sandvicensis",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Hooded Merganser",
+      "scientific_name": "Lophodytes cucullatus",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "King/Common Eider",
+      "scientific_name": "Somateria spectabilis",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Lesser Scaup",
+      "scientific_name": "Aythya affinis",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Long-tailed Duck",
+      "scientific_name": "Clangula hyemalis",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Mallard",
+      "scientific_name": "Anas platyrhynchos",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Mandarin Duck",
+      "scientific_name": "Aix galericulata",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Mexican Duck",
+      "scientific_name": "Anas diazi",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Mottled Duck",
+      "scientific_name": "Anas fulvigula",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Muscovy Duck",
+      "scientific_name": "Cairina moschata",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Mute Swan",
+      "scientific_name": "Cygnus olor",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Northern Pintail",
+      "scientific_name": "Anas acuta",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Northern Shoveler",
+      "scientific_name": "Spatula clypeata",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Pink-footed Goose",
+      "scientific_name": "Anser brachyrhynchus",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Red-breasted Merganser",
+      "scientific_name": "Mergus serrator",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Redhead",
+      "scientific_name": "Aythya americana",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Ring-necked Duck",
+      "scientific_name": "Aythya collaris",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Ringed Teal",
+      "scientific_name": "Callonetta leucophrys",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Ross's Goose",
+      "scientific_name": "Anser rossii",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Ruddy Duck",
+      "scientific_name": "Oxyura jamaicensis",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Ruddy Shelduck",
+      "scientific_name": "Tadorna ferruginea",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Snow x Ross's Goose (hybrid)",
+      "scientific_name": "Anser caerulescens x rossii",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Snow/Ross's Goose",
+      "scientific_name": "Anser caerulescens",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Surf Scoter",
+      "scientific_name": "Melanitta perspicillata",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Swan Goose",
+      "scientific_name": "Anser cygnoides",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Taiga/Tundra Bean-Goose",
+      "scientific_name": "Anser fabalis",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Trumpeter/Tundra Swan",
+      "scientific_name": "Cygnus buccinator",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Tufted Duck",
+      "scientific_name": "Aythya fuligula",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Tundra Swan",
+      "scientific_name": "Cygnus columbianus",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Upland Goose",
+      "scientific_name": "Chloephaga picta",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "White-faced Whistling-Duck",
+      "scientific_name": "Dendrocygna viduata",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "White-winged Scoter",
+      "scientific_name": "Melanitta fusca",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Whooper Swan",
+      "scientific_name": "Cygnus cygnus",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Wood Duck",
+      "scientific_name": "Aix sponsa",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "green-winged teal",
+      "scientific_name": "Anas carolinensis",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "white-winged scoter",
+      "scientific_name": "Melanitta deglandi",
+      "family": "Anatidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Southern Screamer",
+      "scientific_name": "Chauna torquata",
+      "family": "Anhimidae",
+      "order": "Anseriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Chimney Swift",
+      "scientific_name": "Chaetura pelagica",
+      "family": "Apodidae",
+      "order": "Apodiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "White-throated Swift",
+      "scientific_name": "Aeronautes saxatalis",
+      "family": "Apodidae",
+      "order": "Apodiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Anna's Hummingbird",
+      "scientific_name": "Calypte anna",
+      "family": "Trochilidae",
+      "order": "Apodiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-chinned Hummingbird",
+      "scientific_name": "Archilochus alexandri",
+      "family": "Trochilidae",
+      "order": "Apodiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Broad-billed Hummingbird",
+      "scientific_name": "Cynanthus latirostris",
+      "family": "Trochilidae",
+      "order": "Apodiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Broad-tailed Hummingbird",
+      "scientific_name": "Selasphorus platycercus",
+      "family": "Trochilidae",
+      "order": "Apodiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Calliope Hummingbird",
+      "scientific_name": "Selasphorus calliope",
+      "family": "Trochilidae",
+      "order": "Apodiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Costa's Hummingbird",
+      "scientific_name": "Calypte costae",
+      "family": "Trochilidae",
+      "order": "Apodiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Ruby-throated Hummingbird",
+      "scientific_name": "Archilochus colubris",
+      "family": "Trochilidae",
+      "order": "Apodiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Rufous Hummingbird",
+      "scientific_name": "Selasphorus rufus",
+      "family": "Trochilidae",
+      "order": "Apodiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Northern Red-billed Hornbill",
+      "scientific_name": "Tockus erythrorhynchus",
+      "family": "Bucerotidae",
+      "order": "Bucerotiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Chuck-will's-widow",
+      "scientific_name": "Antrostomus carolinensis",
+      "family": "Caprimulgidae",
+      "order": "Caprimulgiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Nighthawk",
+      "scientific_name": "Chordeiles minor",
+      "family": "Caprimulgidae",
+      "order": "Caprimulgiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Common Poorwill",
+      "scientific_name": "Phalaenoptilus nuttallii",
+      "family": "Caprimulgidae",
+      "order": "Caprimulgiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Eastern Whip-poor-will",
+      "scientific_name": "Antrostomus vociferus",
+      "family": "Caprimulgidae",
+      "order": "Caprimulgiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Tawny Frogmouth",
+      "scientific_name": "Podargus strigoides",
+      "family": "Podargidae",
+      "order": "Caprimulgiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Emu",
+      "scientific_name": "Dromaius novaehollandiae",
+      "family": "Dromaiidae",
+      "order": "Casuariiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Ancient Murrelet",
+      "scientific_name": "Synthliboramphus antiquus",
+      "family": "Alcidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Tufted Puffin",
+      "scientific_name": "Fratercula cirrhata",
+      "family": "Alcidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "American Golden-Plover",
+      "scientific_name": "Pluvialis dominica",
+      "family": "Charadriidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "migration",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-bellied Plover",
+      "scientific_name": "Pluvialis squatarola",
+      "family": "Charadriidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Killdeer",
+      "scientific_name": "Charadrius vociferus",
+      "family": "Charadriidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Mountain Plover",
+      "scientific_name": "Charadrius montanus",
+      "family": "Charadriidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Piping Plover",
+      "scientific_name": "Charadrius melodus",
+      "family": "Charadriidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Semipalmated Plover",
+      "scientific_name": "Charadrius semipalmatus",
+      "family": "Charadriidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Snowy Plover",
+      "scientific_name": "Charadrius nivosus",
+      "family": "Charadriidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Spur-winged Lapwing",
+      "scientific_name": "Vanellus spinosus",
+      "family": "Charadriidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "migration",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "American herring gull, Smithsonian Gull",
+      "scientific_name": "Larus smithsonianus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Arctic Tern",
+      "scientific_name": "Sterna paradisaea",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black Tern",
+      "scientific_name": "Chlidonias niger",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Black-headed Gull",
+      "scientific_name": "Chroicocephalus ridibundus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-legged Kittiwake",
+      "scientific_name": "Rissa tridactyla",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Bonaparte's Gull",
+      "scientific_name": "Chroicocephalus philadelphia",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "California Gull",
+      "scientific_name": "Larus californicus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Caspian Tern",
+      "scientific_name": "Hydroprogne caspia",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Tern",
+      "scientific_name": "Sterna hirundo",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Forster's Tern",
+      "scientific_name": "Sterna forsteri",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Franklin's Gull",
+      "scientific_name": "Leucophaeus pipixcan",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Glaucous Gull",
+      "scientific_name": "Larus hyperboreus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Glaucous-winged Gull",
+      "scientific_name": "Larus glaucescens",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Great Black-backed Gull",
+      "scientific_name": "Larus marinus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Heermann's Gull",
+      "scientific_name": "Larus heermanni",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Herring Gull",
+      "scientific_name": "Larus argentatus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Iceland Gull",
+      "scientific_name": "Larus glaucoides",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Laughing Gull",
+      "scientific_name": "Leucophaeus atricilla",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Least Tern",
+      "scientific_name": "Sternula antillarum",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Lesser Black-backed Gull",
+      "scientific_name": "Larus fuscus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Little Gull",
+      "scientific_name": "Hydrocoloeus minutus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Ring-billed Gull",
+      "scientific_name": "Larus delawarensis",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Ross's Gull",
+      "scientific_name": "Rhodostethia rosea",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Royal Tern",
+      "scientific_name": "Thalasseus maximus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Sabine's Gull",
+      "scientific_name": "Xema sabini",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Short-billed Gull",
+      "scientific_name": "Larus brachyrhynchus",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Western Gull",
+      "scientific_name": "Larus occidentalis",
+      "family": "Laridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "American Avocet",
+      "scientific_name": "Recurvirostra americana",
+      "family": "Recurvirostridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Black-necked Stilt",
+      "scientific_name": "Himantopus mexicanus",
+      "family": "Recurvirostridae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "American Woodcock",
+      "scientific_name": "Scolopax minor",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Baird's Sandpiper",
+      "scientific_name": "Calidris bairdii",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Buff-breasted Sandpiper",
+      "scientific_name": "Calidris subruficollis",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Snipe",
+      "scientific_name": "Gallinago gallinago",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Curlew Sandpiper",
+      "scientific_name": "Calidris ferruginea",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Dunlin",
+      "scientific_name": "Calidris alpina",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Eskimo Curlew",
+      "scientific_name": "Numenius borealis",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Greater Yellowlegs",
+      "scientific_name": "Tringa melanoleuca",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Hudsonian Godwit",
+      "scientific_name": "Limosa haemastica",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Least Sandpiper",
+      "scientific_name": "Calidris minutilla",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Lesser Yellowlegs",
+      "scientific_name": "Tringa flavipes",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Long-billed Curlew",
+      "scientific_name": "Numenius americanus",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Long-billed Dowitcher",
+      "scientific_name": "Limnodromus scolopaceus",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Marbled Godwit",
+      "scientific_name": "Limosa fedoa",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Pectoral Sandpiper",
+      "scientific_name": "Calidris melanotos",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Purple Sandpiper",
+      "scientific_name": "Calidris maritima",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Red Knot",
+      "scientific_name": "Calidris canutus",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Red Phalarope",
+      "scientific_name": "Phalaropus fulicarius",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Red-necked Phalarope",
+      "scientific_name": "Phalaropus lobatus",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Ruddy Turnstone",
+      "scientific_name": "Arenaria interpres",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Ruff",
+      "scientific_name": "Calidris pugnax",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Sanderling",
+      "scientific_name": "Calidris alba",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Semipalmated Sandpiper",
+      "scientific_name": "Calidris pusilla",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Sharp-tailed Sandpiper",
+      "scientific_name": "Calidris acuminata",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "migration",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Short-billed Dowitcher",
+      "scientific_name": "Limnodromus griseus",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Solitary Sandpiper",
+      "scientific_name": "Tringa solitaria",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Spotted Sandpiper",
+      "scientific_name": "Actitis macularius",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Stilt Sandpiper",
+      "scientific_name": "Calidris himantopus",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Upland Sandpiper",
+      "scientific_name": "Bartramia longicauda",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Western Sandpiper",
+      "scientific_name": "Calidris mauri",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Whimbrel",
+      "scientific_name": "Numenius phaeopus",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "White-rumped Sandpiper",
+      "scientific_name": "Calidris fuscicollis",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Willet",
+      "scientific_name": "Tringa semipalmata",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Wilson's Phalarope",
+      "scientific_name": "Phalaropus tricolor",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Wilson's Snipe",
+      "scientific_name": "Gallinago delicata",
+      "family": "Scolopacidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Long-tailed Jaeger",
+      "scientific_name": "Stercorarius longicaudus",
+      "family": "Stercorariidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Parasitic Jaeger",
+      "scientific_name": "Stercorarius parasiticus",
+      "family": "Stercorariidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Pomarine Jaeger",
+      "scientific_name": "Stercorarius pomarinus",
+      "family": "Stercorariidae",
+      "order": "Charadriiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Black Stork",
+      "scientific_name": "Ciconia nigra",
+      "family": "Ciconiidae",
+      "order": "Ciconiiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "White Stork",
+      "scientific_name": "Ciconia ciconia",
+      "family": "Ciconiidae",
+      "order": "Ciconiiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Wood Stork",
+      "scientific_name": "Mycteria americana",
+      "family": "Ciconiidae",
+      "order": "Ciconiiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "African Collared-Dove",
+      "scientific_name": "Streptopelia roseogrisea",
+      "family": "Columbidae",
+      "order": "Columbiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Band-tailed Pigeon",
+      "scientific_name": "Patagioenas fasciata",
+      "family": "Columbidae",
+      "order": "Columbiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Ground-Dove",
+      "scientific_name": "Columbina passerina",
+      "family": "Columbidae",
+      "order": "Columbiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Eurasian Collared-Dove",
+      "scientific_name": "Streptopelia decaocto",
+      "family": "Columbidae",
+      "order": "Columbiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Inca Dove",
+      "scientific_name": "Columbina inca",
+      "family": "Columbidae",
+      "order": "Columbiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Mourning Dove",
+      "scientific_name": "Zenaida macroura",
+      "family": "Columbidae",
+      "order": "Columbiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Passenger Pigeon",
+      "scientific_name": "Ectopistes migratorius",
+      "family": "Columbidae",
+      "order": "Columbiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Rock Pigeon",
+      "scientific_name": "Columba livia",
+      "family": "Columbidae",
+      "order": "Columbiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "White-winged Dove",
+      "scientific_name": "Zenaida asiatica",
+      "family": "Columbidae",
+      "order": "Columbiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Belted Kingfisher",
+      "scientific_name": "Megaceryle alcyon",
+      "family": "Alcedinidae",
+      "order": "Coraciiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Black-billed Cuckoo",
+      "scientific_name": "Coccyzus erythropthalmus",
+      "family": "Cuculidae",
+      "order": "Cuculiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Groove-billed Ani",
+      "scientific_name": "Crotophaga sulcirostris",
+      "family": "Cuculidae",
+      "order": "Cuculiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Yellow-billed Cuckoo",
+      "scientific_name": "Coccyzus americanus",
+      "family": "Cuculidae",
+      "order": "Cuculiformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "American Kestrel",
+      "scientific_name": "Falco sparverius",
+      "family": "Falconidae",
+      "order": "Falconiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Gyrfalcon",
+      "scientific_name": "Falco rusticolus",
+      "family": "Falconidae",
+      "order": "Falconiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Merlin",
+      "scientific_name": "Falco columbarius",
+      "family": "Falconidae",
+      "order": "Falconiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Peregrine Falcon",
+      "scientific_name": "Falco peregrinus",
+      "family": "Falconidae",
+      "order": "Falconiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Prairie Falcon",
+      "scientific_name": "Falco mexicanus",
+      "family": "Falconidae",
+      "order": "Falconiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Southern Caracara",
+      "scientific_name": "Caracara plancus",
+      "family": "Falconidae",
+      "order": "Falconiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Helmeted Guineafowl",
+      "scientific_name": "Numida meleagris",
+      "family": "Numididae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "California Quail",
+      "scientific_name": "Callipepla californica",
+      "family": "Odontophoridae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Crested Bobwhite",
+      "scientific_name": "Colinus cristatus",
+      "family": "Odontophoridae",
+      "order": "Galliformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Gambel's Quail",
+      "scientific_name": "Callipepla gambelii",
+      "family": "Odontophoridae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Northern Bobwhite",
+      "scientific_name": "Colinus virginianus",
+      "family": "Odontophoridae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Brown Quail",
+      "scientific_name": "Synoicus ypsilophorus",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Chukar",
+      "scientific_name": "Alectoris chukar",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Common Quail",
+      "scientific_name": "Coturnix coturnix",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Dusky Grouse",
+      "scientific_name": "Dendragapus obscurus",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Gray Partridge",
+      "scientific_name": "Perdix perdix",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Greater Prairie-Chicken",
+      "scientific_name": "Tympanuchus cupido",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Greater Sage-Grouse",
+      "scientific_name": "Centrocercus urophasianus",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Indian Peafowl",
+      "scientific_name": "Pavo cristatus",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Koklass Pheasant",
+      "scientific_name": "Pucrasia macrolopha",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Lesser Prairie-Chicken",
+      "scientific_name": "Tympanuchus pallidicinctus",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Red Junglefowl",
+      "scientific_name": "Gallus gallus",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Ring-necked Pheasant",
+      "scientific_name": "Phasianus colchicus",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Rock Ptarmigan",
+      "scientific_name": "Lagopus muta",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Ruffed Grouse",
+      "scientific_name": "Bonasa umbellus",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Sharp-tailed Grouse",
+      "scientific_name": "Tympanuchus phasianellus",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Wild Turkey",
+      "scientific_name": "Meleagris gallopavo",
+      "family": "Phasianidae",
+      "order": "Galliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Common Loon",
+      "scientific_name": "Gavia immer",
+      "family": "Gaviidae",
+      "order": "Gaviiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Pacific Loon",
+      "scientific_name": "Gavia pacifica",
+      "family": "Gaviidae",
+      "order": "Gaviiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Red-throated Loon",
+      "scientific_name": "Gavia stellata",
+      "family": "Gaviidae",
+      "order": "Gaviiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Yellow-billed Loon",
+      "scientific_name": "Gavia adamsii",
+      "family": "Gaviidae",
+      "order": "Gaviiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Limpkin",
+      "scientific_name": "Aramus guarauna",
+      "family": "Aramidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black Crowned-Crane",
+      "scientific_name": "Balearica pavonina",
+      "family": "Gruidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Common Crane",
+      "scientific_name": "Grus grus",
+      "family": "Gruidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Gray Crowned-Crane",
+      "scientific_name": "Balearica regulorum",
+      "family": "Gruidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Hooded Crane",
+      "scientific_name": "Grus monacha",
+      "family": "Gruidae",
+      "order": "Gruiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Sandhill crane",
+      "scientific_name": "Grus canadensis",
+      "family": "Gruidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Whooping Crane",
+      "scientific_name": "Grus americana",
+      "family": "Gruidae",
+      "order": "Gruiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "American Coot",
+      "scientific_name": "Fulica americana",
+      "family": "Rallidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Clapper Rail",
+      "scientific_name": "Rallus crepitans",
+      "family": "Rallidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Eurasian Moorhen",
+      "scientific_name": "Gallinula chloropus",
+      "family": "Rallidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "King Rail",
+      "scientific_name": "Rallus elegans",
+      "family": "Rallidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Mangrove Rail",
+      "scientific_name": "Rallus longirostris",
+      "family": "Rallidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Purple Gallinule",
+      "scientific_name": "Porphyrio martinica",
+      "family": "Rallidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Sora",
+      "scientific_name": "Porzana carolina",
+      "family": "Rallidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Virginia Rail",
+      "scientific_name": "Rallus limicola",
+      "family": "Rallidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Yellow Rail",
+      "scientific_name": "Coturnicops noveboracensis",
+      "family": "Rallidae",
+      "order": "Gruiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Hartlaub's Turaco",
+      "scientific_name": "Tauraco hartlaubi",
+      "family": "Musophagidae",
+      "order": "Musophagiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "White-cheeked Turaco",
+      "scientific_name": "Tauraco leucotis",
+      "family": "Musophagidae",
+      "order": "Musophagiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Kori Bustard",
+      "scientific_name": "Ardeotis kori",
+      "family": "Otididae",
+      "order": "Otidiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Horned Lark",
+      "scientific_name": "Eremophila alpestris",
+      "family": "Alaudidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Bohemian Waxwing",
+      "scientific_name": "Bombycilla garrulus",
+      "family": "Bombycillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Cedar Waxwing",
+      "scientific_name": "Bombycilla cedrorum",
+      "family": "Bombycillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Chestnut-collared Longspur",
+      "scientific_name": "Calcarius ornatus",
+      "family": "Calcariidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Lapland Longspur",
+      "scientific_name": "Calcarius lapponicus",
+      "family": "Calcariidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "McCown's Longspur",
+      "scientific_name": "Rhynchophanes mccownii",
+      "family": "Calcariidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Smith's Longspur",
+      "scientific_name": "Calcarius pictus",
+      "family": "Calcariidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Snow Bunting",
+      "scientific_name": "Plectrophenax nivalis",
+      "family": "Calcariidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-headed Grosbeak",
+      "scientific_name": "Pheucticus melanocephalus",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Blue Grosbeak",
+      "scientific_name": "Passerina caerulea",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Dickcissel",
+      "scientific_name": "Spiza americana",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Hepatic Tanager",
+      "scientific_name": "Piranga flava",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Indigo Bunting",
+      "scientific_name": "Passerina cyanea",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Lazuli Bunting",
+      "scientific_name": "Passerina amoena",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Northern Cardinal",
+      "scientific_name": "Cardinalis cardinalis",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Painted Bunting",
+      "scientific_name": "Passerina ciris",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Rose-breasted Grosbeak",
+      "scientific_name": "Pheucticus ludovicianus",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Scarlet Tanager",
+      "scientific_name": "Piranga olivacea",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Summer Tanager",
+      "scientific_name": "Piranga rubra",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Western Tanager",
+      "scientific_name": "Piranga ludoviciana",
+      "family": "Cardinalidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Brown Creeper",
+      "scientific_name": "Certhia americana",
+      "family": "Certhiidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "American Dipper",
+      "scientific_name": "Cinclus mexicanus",
+      "family": "Cinclidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "American Crow",
+      "scientific_name": "Corvus brachyrhynchos",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Black-billed Magpie",
+      "scientific_name": "Pica hudsonia",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Blue Jay",
+      "scientific_name": "Cyanocitta cristata",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Chihuahuan Raven",
+      "scientific_name": "Corvus cryptoleucus",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Clark's Nutcracker",
+      "scientific_name": "Nucifraga columbiana",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Raven",
+      "scientific_name": "Corvus corax",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Fish Crow",
+      "scientific_name": "Corvus ossifragus",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Gray Jay",
+      "scientific_name": "Perisoreus canadensis",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Green Jay",
+      "scientific_name": "Cyanocorax yncas",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Pinyon Jay",
+      "scientific_name": "Gymnorhinus cyanocephalus",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Red-billed Blue-Magpie",
+      "scientific_name": "Urocissa erythroryncha",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Steller's Jay",
+      "scientific_name": "Cyanocitta stelleri",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Western Jackdaw",
+      "scientific_name": "Coloeus monedula",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Woodhouse's Scrub-Jay",
+      "scientific_name": "Aphelocoma woodhouseii",
+      "family": "Corvidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Chestnut-breasted Munia",
+      "scientific_name": "Lonchura castaneothorax",
+      "family": "Estrildidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Cut-throat",
+      "scientific_name": "Amadina fasciata",
+      "family": "Estrildidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Long-tailed Finch",
+      "scientific_name": "Poephila acuticauda",
+      "family": "Estrildidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Orange-cheeked Waxbill",
+      "scientific_name": "Estrilda melpoda",
+      "family": "Estrildidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Red Avadavat",
+      "scientific_name": "Amandava amandava",
+      "family": "Estrildidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Zebra Finch",
+      "scientific_name": "Taeniopygia guttata",
+      "family": "Estrildidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "American Goldfinch",
+      "scientific_name": "Spinus tristis",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Black Rosy-Finch",
+      "scientific_name": "Leucosticte atrata",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Brambling",
+      "scientific_name": "Fringilla montifringilla",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Cassin's Finch",
+      "scientific_name": "Haemorhous cassinii",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Redpoll",
+      "scientific_name": "Acanthis flammea",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Gray-crowned Rosy-Finch",
+      "scientific_name": "Leucosticte tephrocotis",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "House Finch",
+      "scientific_name": "Haemorhous mexicanus",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Island Canary",
+      "scientific_name": "Serinus canaria",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Lesser Goldfinch",
+      "scientific_name": "Spinus psaltria",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Pine Grosbeak",
+      "scientific_name": "Pinicola enucleator",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Pine Siskin",
+      "scientific_name": "Spinus pinus",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Purple Finch",
+      "scientific_name": "Haemorhous purpureus",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Red Crossbill",
+      "scientific_name": "Loxia curvirostra",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "White-winged Crossbill",
+      "scientific_name": "Loxia leucoptera",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Yellow-fronted Canary",
+      "scientific_name": "Crithagra mozambica",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "evening grosbeak",
+      "scientific_name": "Hesperiphona vespertina",
+      "family": "Fringillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Bank Swallow",
+      "scientific_name": "Riparia riparia",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Barn Swallow",
+      "scientific_name": "Hirundo rustica",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Brown-chested Martin",
+      "scientific_name": "Progne tapera",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Cave Swallow",
+      "scientific_name": "Petrochelidon fulva",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Cliff Swallow",
+      "scientific_name": "Petrochelidon pyrrhonota",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Northern Rough-winged Swallow",
+      "scientific_name": "Stelgidopteryx serripennis",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Purple Martin",
+      "scientific_name": "Progne subis",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Southern Rough-winged Swallow",
+      "scientific_name": "Stelgidopteryx ruficollis",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Tree Swallow",
+      "scientific_name": "Tachycineta bicolor",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Violet-green Swallow",
+      "scientific_name": "Tachycineta thalassina",
+      "family": "Hirundinidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Baltimore Oriole",
+      "scientific_name": "Icterus galbula",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Bobolink",
+      "scientific_name": "Dolichonyx oryzivorus",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Brewer's Blackbird",
+      "scientific_name": "Euphagus cyanocephalus",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Brown-headed Cowbird",
+      "scientific_name": "Molothrus ater",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Bullock's Oriole",
+      "scientific_name": "Icterus bullockii",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Grackle",
+      "scientific_name": "Quiscalus quiscula",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Eastern Meadowlark",
+      "scientific_name": "Sturnella magna",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Great-tailed Grackle",
+      "scientific_name": "Quiscalus mexicanus",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Hooded Oriole",
+      "scientific_name": "Icterus cucullatus",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Orchard Oriole",
+      "scientific_name": "Icterus spurius",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Red-winged Blackbird",
+      "scientific_name": "Agelaius phoeniceus",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Rusty Blackbird",
+      "scientific_name": "Euphagus carolinus",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Scott's Oriole",
+      "scientific_name": "Icterus parisorum",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Tricolored Blackbird",
+      "scientific_name": "Agelaius tricolor",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Western Meadowlark",
+      "scientific_name": "Sturnella neglecta",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Yellow-headed Blackbird",
+      "scientific_name": "Xanthocephalus xanthocephalus",
+      "family": "Icteridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Great Gray Shrike",
+      "scientific_name": "Lanius excubitor",
+      "family": "Laniidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Loggerhead Shrike",
+      "scientific_name": "Lanius ludovicianus",
+      "family": "Laniidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Northern Shrike",
+      "scientific_name": "Lanius borealis",
+      "family": "Laniidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Brown Thrasher",
+      "scientific_name": "Toxostoma rufum",
+      "family": "Mimidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Curve-billed Thrasher",
+      "scientific_name": "Toxostoma curvirostre",
+      "family": "Mimidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Gray Catbird",
+      "scientific_name": "Dumetella carolinensis",
+      "family": "Mimidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Northern Mockingbird",
+      "scientific_name": "Mimus polyglottos",
+      "family": "Mimidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Sage Thrasher",
+      "scientific_name": "Oreoscoptes montanus",
+      "family": "Mimidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "American Pipit",
+      "scientific_name": "Anthus rubescens",
+      "family": "Motacillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Sprague's Pipit",
+      "scientific_name": "Anthus spragueii",
+      "family": "Motacillidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-capped Chickadee",
+      "scientific_name": "Poecile atricapillus",
+      "family": "Paridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Carolina Chickadee",
+      "scientific_name": "Poecile carolinensis",
+      "family": "Paridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Mountain Chickadee",
+      "scientific_name": "Poecile gambeli",
+      "family": "Paridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Tufted Titmouse",
+      "scientific_name": "Baeolophus bicolor",
+      "family": "Paridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "American Redstart",
+      "scientific_name": "Setophaga ruticilla",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "American Yellow Warbler",
+      "scientific_name": "Setophaga aestiva",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Audubon's Warbler",
+      "scientific_name": "Setophaga auduboni",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Bay-breasted Warbler",
+      "scientific_name": "Setophaga castanea",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-and-white Warbler",
+      "scientific_name": "Mniotilta varia",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Black-throated Blue Warbler",
+      "scientific_name": "Setophaga caerulescens",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-throated Gray Warbler",
+      "scientific_name": "Setophaga nigrescens",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Black-throated Green Warbler",
+      "scientific_name": "Setophaga virens",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Blackburnian Warbler",
+      "scientific_name": "Setophaga fusca",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Blackpoll Warbler",
+      "scientific_name": "Setophaga striata",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Blue-winged Warbler",
+      "scientific_name": "Vermivora cyanoptera",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Canada Warbler",
+      "scientific_name": "Cardellina canadensis",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Cape May Warbler",
+      "scientific_name": "Setophaga tigrina",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Cerulean Warbler",
+      "scientific_name": "Setophaga cerulea",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Chestnut-sided Warbler",
+      "scientific_name": "Setophaga pensylvanica",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Yellowthroat",
+      "scientific_name": "Geothlypis trichas",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Connecticut Warbler",
+      "scientific_name": "Oporornis agilis",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Golden-winged Warbler",
+      "scientific_name": "Vermivora chrysoptera",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Grace's Warbler",
+      "scientific_name": "Setophaga graciae",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Hermit Warbler",
+      "scientific_name": "Setophaga occidentalis",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Hooded Warbler",
+      "scientific_name": "Setophaga citrina",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Kentucky Warbler",
+      "scientific_name": "Geothlypis formosa",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Louisiana Waterthrush",
+      "scientific_name": "Parkesia motacilla",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "MacGillivray's Warbler",
+      "scientific_name": "Geothlypis tolmiei",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Magnolia Warbler",
+      "scientific_name": "Setophaga magnolia",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Mourning Warbler",
+      "scientific_name": "Geothlypis philadelphia",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Nashville Warbler",
+      "scientific_name": "Leiothlypis ruficapilla",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Northern Parula",
+      "scientific_name": "Setophaga americana",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Northern Waterthrush",
+      "scientific_name": "Parkesia noveboracensis",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Orange-crowned Warbler",
+      "scientific_name": "Leiothlypis celata",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Ovenbird",
+      "scientific_name": "Seiurus aurocapilla",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Palm Warbler",
+      "scientific_name": "Setophaga palmarum",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Pine Warbler",
+      "scientific_name": "Setophaga pinus",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Prairie Warbler",
+      "scientific_name": "Setophaga discolor",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Prothonotary Warbler",
+      "scientific_name": "Protonotaria citrea",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Swainson's Warbler",
+      "scientific_name": "Limnothlypis swainsonii",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Tennessee Warbler",
+      "scientific_name": "Leiothlypis peregrina",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Townsend's Warbler",
+      "scientific_name": "Setophaga townsendi",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Virginia's Warbler",
+      "scientific_name": "Leiothlypis virginiae",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Wilson's Warbler",
+      "scientific_name": "Cardellina pusilla",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Worm-eating Warbler",
+      "scientific_name": "Helmitheros vermivorum",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Yellow Warbler",
+      "scientific_name": "Setophaga petechia",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Yellow-breasted Chat",
+      "scientific_name": "Icteria virens",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Yellow-rumped Warbler",
+      "scientific_name": "Setophaga coronata",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Yellow-throated Warbler",
+      "scientific_name": "Setophaga dominica",
+      "family": "Parulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "American Tree Sparrow",
+      "scientific_name": "Spizelloides arborea",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Baird's Sparrow",
+      "scientific_name": "Centronyx bairdii",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-throated Sparrow",
+      "scientific_name": "Amphispiza bilineata",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Brewer's Sparrow",
+      "scientific_name": "Spizella breweri",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Cassin's Sparrow",
+      "scientific_name": "Peucaea cassinii",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Chipping Sparrow",
+      "scientific_name": "Spizella passerina",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Clay-colored Sparrow",
+      "scientific_name": "Spizella pallida",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Dark-eyed Junco",
+      "scientific_name": "Junco hyemalis",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Eastern Towhee",
+      "scientific_name": "Pipilo erythrophthalmus",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Field Sparrow",
+      "scientific_name": "Spizella pusilla",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Fox Sparrow",
+      "scientific_name": "Passerella iliaca",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Golden-crowned Sparrow",
+      "scientific_name": "Zonotrichia atricapilla",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Grasshopper Sparrow",
+      "scientific_name": "Ammodramus savannarum",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Green-tailed Towhee",
+      "scientific_name": "Pipilo chlorurus",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Harris's Sparrow",
+      "scientific_name": "Zonotrichia querula",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Henslow's Sparrow",
+      "scientific_name": "Centronyx henslowii",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Lark Bunting",
+      "scientific_name": "Calamospiza melanocorys",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Lark Sparrow",
+      "scientific_name": "Chondestes grammacus",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Le Conte's Sparrow",
+      "scientific_name": "Ammospiza leconteii",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Lincoln's Sparrow",
+      "scientific_name": "Melospiza lincolnii",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Nelson's Sparrow",
+      "scientific_name": "Ammospiza nelsoni",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Rufous-collared Sparrow",
+      "scientific_name": "Zonotrichia capensis",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Sagebrush Sparrow",
+      "scientific_name": "Artemisiospiza nevadensis",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Saltmarsh Sparrow",
+      "scientific_name": "Ammospiza caudacuta",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Savannah Sparrow",
+      "scientific_name": "Passerculus sandwichensis",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Slate-colored Fox Sparrow",
+      "scientific_name": "Passerella schistacea",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Song Sparrow",
+      "scientific_name": "Melospiza melodia",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Spotted Towhee",
+      "scientific_name": "Pipilo maculatus",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Swamp Sparrow",
+      "scientific_name": "Melospiza georgiana",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Vesper Sparrow",
+      "scientific_name": "Pooecetes gramineus",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "White-crowned Sparrow",
+      "scientific_name": "Zonotrichia leucophrys",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "White-throated Sparrow",
+      "scientific_name": "Zonotrichia albicollis",
+      "family": "Passerellidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Eurasian Tree Sparrow",
+      "scientific_name": "Passer montanus",
+      "family": "Passeridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "House Sparrow",
+      "scientific_name": "Passer domesticus",
+      "family": "Passeridae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Northern Red Bishop",
+      "scientific_name": "Euplectes franciscanus",
+      "family": "Ploceidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Southern Masked-Weaver",
+      "scientific_name": "Ploceus velatus",
+      "family": "Ploceidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Blue-gray Gnatcatcher",
+      "scientific_name": "Polioptila caerulea",
+      "family": "Polioptilidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Phainopepla",
+      "scientific_name": "Phainopepla nitens",
+      "family": "Ptilogonatidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Golden-crowned Kinglet",
+      "scientific_name": "Regulus satrapa",
+      "family": "Regulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Ruby-crowned Kinglet",
+      "scientific_name": "Regulus calendula",
+      "family": "Regulidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Brown-headed Nuthatch",
+      "scientific_name": "Sitta pusilla",
+      "family": "Sittidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Pygmy Nuthatch",
+      "scientific_name": "Sitta pygmaea",
+      "family": "Sittidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Red-breasted Nuthatch",
+      "scientific_name": "Sitta canadensis",
+      "family": "Sittidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "White-breasted Nuthatch",
+      "scientific_name": "Sitta carolinensis",
+      "family": "Sittidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Bali Myna",
+      "scientific_name": "Leucopsar rothschildi",
+      "family": "Sturnidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Common Hill Myna",
+      "scientific_name": "Gracula religiosa",
+      "family": "Sturnidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "European Starling",
+      "scientific_name": "Sturnus vulgaris",
+      "family": "Sturnidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Bewick's Wren",
+      "scientific_name": "Thryomanes bewickii",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Canyon Wren",
+      "scientific_name": "Catherpes mexicanus",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Carolina Wren",
+      "scientific_name": "Thryothorus ludovicianus",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Eurasian Wren",
+      "scientific_name": "Troglodytes troglodytes",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "House Wren",
+      "scientific_name": "Troglodytes aedon",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Marsh Wren",
+      "scientific_name": "Cistothorus palustris",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Pacific Wren",
+      "scientific_name": "Troglodytes pacificus",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Rock Wren",
+      "scientific_name": "Salpinctes obsoletus",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Sedge Wren",
+      "scientific_name": "Cistothorus platensis",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Winter Wren",
+      "scientific_name": "Troglodytes hiemalis",
+      "family": "Troglodytidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "American Robin",
+      "scientific_name": "Turdus migratorius",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Eastern Bluebird",
+      "scientific_name": "Sialia sialis",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Gray-cheeked Thrush",
+      "scientific_name": "Catharus minimus",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Hermit Thrush",
+      "scientific_name": "Catharus guttatus",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Mountain Bluebird",
+      "scientific_name": "Sialia currucoides",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Swainson's Thrush",
+      "scientific_name": "Catharus ustulatus",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Townsend's Solitaire",
+      "scientific_name": "Myadestes townsendi",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Varied Thrush",
+      "scientific_name": "Ixoreus naevius",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Veery",
+      "scientific_name": "Catharus fuscescens",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Western Bluebird",
+      "scientific_name": "Sialia mexicana",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Wood Thrush",
+      "scientific_name": "Hylocichla mustelina",
+      "family": "Turdidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Acadian Flycatcher",
+      "scientific_name": "Empidonax virescens",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Alder Flycatcher",
+      "scientific_name": "Empidonax alnorum",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Ash-throated Flycatcher",
+      "scientific_name": "Myiarchus cinerascens",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black Phoebe",
+      "scientific_name": "Sayornis nigricans",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Cassin's Kingbird",
+      "scientific_name": "Tyrannus vociferans",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Couch's Kingbird",
+      "scientific_name": "Tyrannus couchii",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Dusky Flycatcher",
+      "scientific_name": "Empidonax oberholseri",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Eastern Kingbird",
+      "scientific_name": "Tyrannus tyrannus",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Eastern Phoebe",
+      "scientific_name": "Sayornis phoebe",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Eastern Wood-Pewee",
+      "scientific_name": "Contopus virens",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Gray Flycatcher",
+      "scientific_name": "Empidonax wrightii",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Great Crested Flycatcher",
+      "scientific_name": "Myiarchus crinitus",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Great Kiskadee",
+      "scientific_name": "Pitangus sulphuratus",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Hammond's Flycatcher",
+      "scientific_name": "Empidonax hammondii",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Least Flycatcher",
+      "scientific_name": "Empidonax minimus",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Olive-sided Flycatcher",
+      "scientific_name": "Contopus cooperi",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Pacific-slope Flycatcher",
+      "scientific_name": "Empidonax difficilis",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Say's Phoebe",
+      "scientific_name": "Sayornis saya",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Scissor-tailed Flycatcher",
+      "scientific_name": "Tyrannus forficatus",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Vermilion Flycatcher",
+      "scientific_name": "Pyrocephalus rubinus",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Western Kingbird",
+      "scientific_name": "Tyrannus verticalis",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Western Wood-Pewee",
+      "scientific_name": "Contopus sordidulus",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Willow Flycatcher",
+      "scientific_name": "Empidonax traillii",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Yellow-bellied Flycatcher",
+      "scientific_name": "Empidonax flaviventris",
+      "family": "Tyrannidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Bell's Vireo",
+      "scientific_name": "Vireo bellii",
+      "family": "Vireonidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Blue-headed Vireo",
+      "scientific_name": "Vireo solitarius",
+      "family": "Vireonidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Cassin's Vireo",
+      "scientific_name": "Vireo cassinii",
+      "family": "Vireonidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Philadelphia Vireo",
+      "scientific_name": "Vireo philadelphicus",
+      "family": "Vireonidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Plumbeous Vireo",
+      "scientific_name": "Vireo plumbeus",
+      "family": "Vireonidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Red-eyed Vireo",
+      "scientific_name": "Vireo olivaceus",
+      "family": "Vireonidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Warbling Vireo",
+      "scientific_name": "Vireo gilvus",
+      "family": "Vireonidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "White-eyed Vireo",
+      "scientific_name": "Vireo griseus",
+      "family": "Vireonidae",
+      "order": "Passeriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Yellow-throated Vireo",
+      "scientific_name": "Vireo flavifrons",
+      "family": "Vireonidae",
+      "order": "Passeriformes",
+      "seasonal_status": "breeding",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "American Bittern",
+      "scientific_name": "Botaurus lentiginosus",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Black-crowned Night-Heron",
+      "scientific_name": "Nycticorax nycticorax",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Cattle Egret",
+      "scientific_name": "Bubulcus ibis",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Great Blue/Cocoi Heron",
+      "scientific_name": "Ardea herodias",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Great Egret",
+      "scientific_name": "Ardea alba",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Green/Striated Heron",
+      "scientific_name": "Butorides virescens",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Least Bittern",
+      "scientific_name": "Ixobrychus exilis",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "breeding",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Little Blue Heron",
+      "scientific_name": "Egretta caerulea",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Reddish Egret",
+      "scientific_name": "Egretta rufescens",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Snowy Egret",
+      "scientific_name": "Egretta thula",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Striated Heron",
+      "scientific_name": "Butorides striata",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Tricolored Heron",
+      "scientific_name": "Egretta tricolor",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Yellow-crowned Night-Heron",
+      "scientific_name": "Nyctanassa violacea",
+      "family": "Ardeidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "American White Pelican",
+      "scientific_name": "Pelecanus erythrorhynchos",
+      "family": "Pelecanidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Brown Pelican",
+      "scientific_name": "Pelecanus occidentalis",
+      "family": "Pelecanidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Glossy Ibis",
+      "scientific_name": "Plegadis falcinellus",
+      "family": "Threskiornithidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Roseate Spoonbill",
+      "scientific_name": "Platalea ajaja",
+      "family": "Threskiornithidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Scarlet Ibis",
+      "scientific_name": "Eudocimus ruber",
+      "family": "Threskiornithidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "White Ibis",
+      "scientific_name": "Eudocimus albus",
+      "family": "Threskiornithidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "White-faced Ibis",
+      "scientific_name": "Plegadis chihi",
+      "family": "Threskiornithidae",
+      "order": "Pelecaniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "American Flamingo",
+      "scientific_name": "Phoenicopterus ruber",
+      "family": "Phoenicopteridae",
+      "order": "Phoenicopteriformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Chilean Flamingo",
+      "scientific_name": "Phoenicopterus chilensis",
+      "family": "Phoenicopteridae",
+      "order": "Phoenicopteriformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Acorn Woodpecker",
+      "scientific_name": "Melanerpes formicivorus",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "American Three-toed Woodpecker",
+      "scientific_name": "Picoides dorsalis",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Downy Woodpecker",
+      "scientific_name": "Dryobates pubescens",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Hairy Woodpecker",
+      "scientific_name": "Leuconotopicus villosus",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Ladder-backed Woodpecker",
+      "scientific_name": "Dryobates scalaris",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Lewis's Woodpecker",
+      "scientific_name": "Melanerpes lewis",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Northern Flicker",
+      "scientific_name": "Colaptes auratus",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Pileated Woodpecker",
+      "scientific_name": "Dryocopus pileatus",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Red-bellied Woodpecker",
+      "scientific_name": "Melanerpes carolinus",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Red-headed Woodpecker",
+      "scientific_name": "Melanerpes erythrocephalus",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Red-naped Sapsucker",
+      "scientific_name": "Sphyrapicus nuchalis",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Williamson's Sapsucker",
+      "scientific_name": "Sphyrapicus thyroideus",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Yellow-bellied Sapsucker",
+      "scientific_name": "Sphyrapicus varius",
+      "family": "Picidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Citron-throated toucan",
+      "scientific_name": "Ramphastos citreolaemus",
+      "family": "Ramphastidae",
+      "order": "Piciformes",
+      "seasonal_status": "breeding",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Toco Toucan",
+      "scientific_name": "Ramphastos toco",
+      "family": "Ramphastidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "White-throated Toucan",
+      "scientific_name": "Ramphastos tucanus",
+      "family": "Ramphastidae",
+      "order": "Piciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Clark's Grebe",
+      "scientific_name": "Aechmophorus clarkii",
+      "family": "Podicipedidae",
+      "order": "Podicipediformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Eared Grebe",
+      "scientific_name": "Podiceps nigricollis",
+      "family": "Podicipedidae",
+      "order": "Podicipediformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Horned Grebe",
+      "scientific_name": "Podiceps auritus",
+      "family": "Podicipedidae",
+      "order": "Podicipediformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Pied-billed Grebe",
+      "scientific_name": "Podilymbus podiceps",
+      "family": "Podicipedidae",
+      "order": "Podicipediformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Red-necked Grebe",
+      "scientific_name": "Podiceps grisegena",
+      "family": "Podicipedidae",
+      "order": "Podicipediformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Western Grebe",
+      "scientific_name": "Aechmophorus occidentalis",
+      "family": "Podicipedidae",
+      "order": "Podicipediformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Blossom-headed Parakeet",
+      "scientific_name": "Psittacula roseata",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Blue-and-yellow Macaw",
+      "scientific_name": "Ara ararauna",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Blue-headed Parrot",
+      "scientific_name": "Pionus menstruus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Brown-headed Parrot",
+      "scientific_name": "Poicephalus cryptoxanthus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Budgerigar",
+      "scientific_name": "Melopsittacus undulatus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Burrowing Parakeet",
+      "scientific_name": "Cyanoliseus patagonus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Carolina Parakeet",
+      "scientific_name": "Conuropsis carolinensis",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Chestnut-fronted Macaw",
+      "scientific_name": "Ara severus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Cockatiel",
+      "scientific_name": "Nymphicus hollandicus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Cuban Parrot",
+      "scientific_name": "Amazona leucocephala",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Eastern Rosella",
+      "scientific_name": "Platycercus eximius",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Eclectus Parrot",
+      "scientific_name": "Eclectus roratus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Elegant Parrot",
+      "scientific_name": "Neophema elegans",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Gray Parrot",
+      "scientific_name": "Psittacus erithacus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Gray-cheeked Parakeet",
+      "scientific_name": "Brotogeris pyrrhoptera",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Green-cheeked Parakeet",
+      "scientific_name": "Pyrrhura molinae",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Green-rumped Parrotlet",
+      "scientific_name": "Forpus passerinus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Lilac-crowned Parrot",
+      "scientific_name": "Amazona finschi",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Monk Parakeet",
+      "scientific_name": "Myiopsitta monachus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Orange-winged Parrot",
+      "scientific_name": "Amazona amazonica",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Red Lory",
+      "scientific_name": "Eos bornea",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Red-breasted Parakeet",
+      "scientific_name": "Psittacula alexandri",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Red-rumped Parrot",
+      "scientific_name": "Psephotus haematonotus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Regent Parrot",
+      "scientific_name": "Polytelis anthopeplus",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Rosy-faced Lovebird",
+      "scientific_name": "Agapornis roseicollis",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Scarlet Macaw",
+      "scientific_name": "Ara macao",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Scarlet-chested Parrot",
+      "scientific_name": "Neophema splendida",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "migration",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Turquoise-fronted Parrot",
+      "scientific_name": "Amazona aestiva",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "White Cockatoo",
+      "scientific_name": "Cacatua alba",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "White-fronted Parrot",
+      "scientific_name": "Amazona albifrons",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Yellow-crested Cockatoo",
+      "scientific_name": "Cacatua sulphurea",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Yellow-crowned Parrot",
+      "scientific_name": "Amazona ochrocephala",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "blue-crowned conure",
+      "scientific_name": "Aratinga acuticaudata",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "peach-fronted conure",
+      "scientific_name": "Aratinga aurea",
+      "family": "Psittacidae",
+      "order": "Psittaciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Greater Rhea",
+      "scientific_name": "Rhea americana",
+      "family": "Rheidae",
+      "order": "Rheiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "African Penguin",
+      "scientific_name": "Spheniscus demersus",
+      "family": "Spheniscidae",
+      "order": "Sphenisciformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Barred Owl",
+      "scientific_name": "Strix varia",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Boreal Owl",
+      "scientific_name": "Aegolius funereus",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Burrowing Owl",
+      "scientific_name": "Athene cunicularia",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Eastern Screech-Owl",
+      "scientific_name": "Megascops asio",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Great Horned Owl",
+      "scientific_name": "Bubo virginianus",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Long-eared Owl",
+      "scientific_name": "Asio otus",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Northern Hawk Owl",
+      "scientific_name": "Surnia ulula",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Northern Saw-whet Owl",
+      "scientific_name": "Aegolius acadicus",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Short-eared Owl",
+      "scientific_name": "Asio flammeus",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Snowy Owl",
+      "scientific_name": "Bubo scandiacus",
+      "family": "Strigidae",
+      "order": "Strigiformes",
+      "seasonal_status": "wintering",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "American Barn Owl",
+      "scientific_name": "Tyto furcata",
+      "family": "Tytonidae",
+      "order": "Strigiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Barn Owl",
+      "scientific_name": "Tyto alba",
+      "family": "Tytonidae",
+      "order": "Strigiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Common Ostrich",
+      "scientific_name": "Struthio camelus",
+      "family": "Struthionidae",
+      "order": "Struthioniformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Anhinga",
+      "scientific_name": "Anhinga anhinga",
+      "family": "Anhingidae",
+      "order": "Suliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Magnificent Frigatebird",
+      "scientific_name": "Fregata magnificens",
+      "family": "Fregatidae",
+      "order": "Suliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    },
+    {
+      "common_name": "Double-crested Cormorant",
+      "scientific_name": "Phalacrocorax auritus",
+      "family": "Phalacrocoracidae",
+      "order": "Suliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "common"
+    },
+    {
+      "common_name": "Neotropic Cormorant",
+      "scientific_name": "Phalacrocorax brasilianus",
+      "family": "Phalacrocoracidae",
+      "order": "Suliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Brown Booby",
+      "scientific_name": "Sula leucogaster",
+      "family": "Sulidae",
+      "order": "Suliformes",
+      "seasonal_status": "year-round",
+      "likelihood": "uncommon"
+    },
+    {
+      "common_name": "Elegant Crested-Tinamou",
+      "scientific_name": "Eudromia elegans",
+      "family": "Tinamidae",
+      "order": "Tinamiformes",
+      "seasonal_status": "year-round",
+      "likelihood": "rare"
+    }
+  ]
+}
